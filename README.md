@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Guidance of setting up vscode, eslint + prettier for a react project (TypeScript)
+
+Placeholder repo. Guidance of setting up vscode, eslint + prettier for a react project (TypeScript) - see `.prettierrc.js` for more details
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
